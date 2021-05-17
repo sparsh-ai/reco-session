@@ -1,0 +1,19 @@
+# Project information
+site_name: RecoSession
+site_url: https://sparsh-ai.github.io/reco-session/
+site_author: Sparsh A.
+site_description: >-
+  Session-based recommender systems. Mainly to estimate next best item to recommend.
+  
+# Repository
+repo_name: sparsh-ai/reco-session
+repo_url: https://github.com/sparsh-ai/reco-session
+edit_uri: ""
+
+# Configuration
+theme:
+  name: material
+
+docs_dir: 'cases'
+plugins:
+  - mkdocs-jupyter
